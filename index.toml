@@ -1858,7 +1858,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "17592fc90e49c44647b521c835cb38857e1d7933b58ee40d7cbfb1cc9290b949"
+hash = "9c4ae965d27b50a945f1e912b0838ba56f6c5f14f625ea095a82cb27a561bfe5"
 metafile = true
 
 [[files]]
@@ -2349,11 +2349,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
-metafile = true
-
-[[files]]
-file = "mods/veinmining.pw.toml"
-hash = "3d1d882b83a49f62cdb397498077314449c95814ae12ec54190e27bf4ff01492"
 metafile = true
 
 [[files]]

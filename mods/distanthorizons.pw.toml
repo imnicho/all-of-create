@@ -5,7 +5,7 @@ side = "both"
 [option]
 optional = true
 default = false
-description = "Adds level-of-detail rendering for far distances. Disable if you experience performance issues."
+description = "Lets you see way further than vanilla allows (render distances of 128+ chunks) by drawing low-detail terrain in the distance. Keep DISABLED if you're on macOS — known to crash. Disable if you hit performance issues on other platforms."
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/VH8Pl4yr/DistantHorizons-3.0.1-b-1.21.1-fabric-neoforge.jar"
