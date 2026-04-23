@@ -16,18 +16,6 @@ hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
 metafile = true
 
 [[files]]
-file = "config/CSC/CSC_Warn.log"
-hash = "850852fbaec4e27131a71170162866b484a5115fa176dab3dab166d525637c08"
-
-[[files]]
-file = "config/CSC/Data/variables.data"
-hash = "7fa1609664e4f85dfa48b1c5ac031b2056f2f13bc23a3aa12292ae2761b1ac47"
-
-[[files]]
-file = "config/CSC/Log/CSC_Record.log"
-hash = "691b0c80dfc69c505021a479ab44174883925ba3f9080f9a51aa24e2e2c0dfbd"
-
-[[files]]
 file = "config/CSC/config.toml"
 hash = "aaef6a7bc889530ace3bffc70b4e237b2f6f78bc79735d3f0d69804c3be76242"
 
