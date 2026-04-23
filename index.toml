@@ -1372,6 +1372,11 @@ hash = "91aca9ce35ad3004e1a2b60994830ac0996589b0181c8b4c7d39e2fda2adc7cb"
 metafile = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -1407,8 +1412,8 @@ hash = "f6ecd015d69886fff80bd67a88d0a5ded19acf6307ab8014fc13112a804a8a1a"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "c3233ab72a796b7a0fcea7fa22b88ef5ee0512daf3c767be4f88e6e4f30881b0"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
 
 [[files]]
@@ -1488,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -1618,7 +1623,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "9bb04e0450d54cdaaf10120438a5a1139c84fbcf51f9beca3ebb90c9c01eec0a"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
@@ -1632,8 +1637,8 @@ hash = "b4cb9f000ce5f219a468cbc3062314acf6c72c82999720d08a5422d051c617d2"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "275ca17c0de3d568298d54114278ee26af7de78a07b0acfb5f996ee27242352b"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
 metafile = true
 
 [[files]]
@@ -1698,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "f3a7816c3e0aeaa49b0ab2d96f1695af89aa42fc54ca4900a7d472addb14ac29"
+hash = "8ce8e4ca9787999c2c369d7dc22096fec7e42e5066036e8613f2147924e79734"
 metafile = true
 
 [[files]]
@@ -1803,7 +1808,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "5fac2471c694e4bf9c847106cc3e86408859b63d050e7d86603ba20a8ba4698c"
+hash = "bde53718df2ad68c55a0d4d80570a4fc9252562bcdd5574035a97ba1246b139f"
 metafile = true
 
 [[files]]
@@ -1828,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1978,7 +1983,7 @@ metafile = true
 
 [[files]]
 file = "mods/gears-n-kinetics.pw.toml"
-hash = "ce35bf5e845d46c98e22131cb8e04e147aafe62d3492da97a1a3090621af0281"
+hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
 metafile = true
 
 [[files]]
@@ -2018,7 +2023,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrialized-architecture.pw.toml"
-hash = "be17370c2f959697b1d75cf87036b58bdb01c45de9205c9e7ee8c7f354078ee9"
+hash = "131c035fb37985b124d609048368f057d77ccfab4b02179cda42a69ee17cc19b"
 metafile = true
 
 [[files]]
@@ -2047,8 +2052,13 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
+file = "mods/jefa.pw.toml"
+hash = "b6cbfa2ff93df0c1564546fe28ab418118a4ca5997cc2876be8600f4e7e93ba7"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
-hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
@@ -2059,11 +2069,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-filters.pw.toml"
 hash = "46f837cda10af780489ea294faa9c7d951ed6310dc8ff1b56ca55e1b06c932ea"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-freaky-additions-jefa.pw.toml"
-hash = "3363539e1e1ef147e2b896e177ed639a68589e942e68dc742fdf6268481a643a"
 metafile = true
 
 [[files]]
@@ -2282,11 +2287,6 @@ hash = "effa38667b2488c2b37fe1b4b8c5069741d24aba8befefb65b8bce731df11f92"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "921b911bb9c5315423373c73f7dcbc3a5b02e6970fae52cd25154b7918640b89"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "97658372a06b324c2121668e350cd27b02428db882f7f4943182aeef3f4cca75"
 metafile = true
@@ -2367,8 +2367,8 @@ hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
 
 [[files]]
-file = "mods/x-autofish.pw.toml"
-hash = "13f96fd0f7c46d6c01e751652f294d77f333eda9a26f5a20d96856877072f5e7"
+file = "mods/x+-autofish.pw.toml"
+hash = "29d142218e15fbd26a4e17e1a65dab7a5a0dd81e6806130a474c1d27fa1be53d"
 metafile = true
 
 [[files]]

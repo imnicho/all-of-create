@@ -1,0 +1,13 @@
+name = "Just Enough Freaky Additions (JEFA)"
+filename = "JEFA-v1.0.1-[1.21.1].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k0UlUqOT/versions/E1n8llpq/JEFA-v1.0.1-%5B1.21.1%5D.jar"
+hash-format = "sha512"
+hash = "46a5e799b8123f03cabec30d439f30c65160ba835458e2b923beeecf312e6f2bcd8edc6010119cc22d53b2815d9b8ec8d34734649f75ed0ea11e0c199f707f03"
+
+[update]
+[update.modrinth]
+mod-id = "k0UlUqOT"
+version = "E1n8llpq"
