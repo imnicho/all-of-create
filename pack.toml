@@ -1,0 +1,12 @@
+name = "All of Create"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5fa3b20d833e1f27c4e6f773181186c491c5a43f2d84201c201e05737475cfa5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

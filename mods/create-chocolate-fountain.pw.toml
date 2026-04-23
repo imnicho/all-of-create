@@ -1,0 +1,13 @@
+name = "Create: Chocolate Fountain"
+filename = "create_chocolate_fountain-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c646b95eaf34c12b9bf7427406dc292d2e2f64ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7560895
+project-id = 1232926

@@ -1,0 +1,13 @@
+name = "All of Create Data"
+filename = "aoc_data_1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bc99d27d3aeac3edf0b3313d1ddf44ceabd2d1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7571859
+project-id = 979544

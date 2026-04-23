@@ -1,0 +1,13 @@
+name = "Impulse's Enchantments"
+filename = "Enchantments Plus 3.6.0 Neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10b90a22b8caac9ffab6faa7867126146046fb28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200085
+project-id = 1201815

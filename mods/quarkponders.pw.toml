@@ -1,0 +1,13 @@
+name = "QuarkPonders"
+filename = "QuarkPonders-1.3_NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76b6644801075dbfefab7864b654e88b653304fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7620378
+project-id = 1290960

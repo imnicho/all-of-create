@@ -1,0 +1,13 @@
+name = "Create: Totem Factory"
+filename = "TotemFactory-1.1.0.1+mc1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4d00f9e92f6ea34d5aae8f67abda3036c8eb8e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7544928
+project-id = 978675

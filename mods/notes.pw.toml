@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.21-3.0.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82190c95048096cbf77fcff121954082b1124bf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5474813
+project-id = 256087

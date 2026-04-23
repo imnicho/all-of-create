@@ -1,0 +1,13 @@
+name = "Create: Fast SchematicCannon"
+filename = "CreateFastSchematicCannon-1.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6123fff6e9ab3e9b88bf83988a13715fcfd7902e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7552768
+project-id = 1352204

@@ -1,0 +1,6 @@
+*.jar
+*.jar.disabled
+*.zip.disabled
+*.bak
+*.log
+*.data
