@@ -1540,6 +1540,11 @@ hash = "d3ea4ea3cc70a32321ac897cc50f97b2bb84b5c333d7cf04615d41c620345161"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+metafile = true
+
+[[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "04d77085a95a9c684abed02b1fbdd1b0252c2d440a4f26da84bbbf50a9b5b7d1"
 metafile = true
@@ -1751,7 +1756,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "fc3161c8d46ab00f3e3a2e0f2db093d0e7ffa24dca7b883eef338d90a424d8b7"
+hash = "dc37d45184f4c9710de2f25f8a0463423105f4feb6bd8ec8433a33161e247640"
 metafile = true
 
 [[files]]
@@ -1795,11 +1800,6 @@ hash = "6a50238b3a6248a969d834325a826275024018e8c9878b2b90351c54aa10db52"
 metafile = true
 
 [[files]]
-file = "mods/create-train-parts.pw.toml"
-hash = "bde53718df2ad68c55a0d4d80570a4fc9252562bcdd5574035a97ba1246b139f"
-metafile = true
-
-[[files]]
 file = "mods/create-transmission.pw.toml"
 hash = "5e322c49ae80154f0e24b5cc91dab5bec86cf6964798a0439200957e6d6deca9"
 metafile = true
@@ -1821,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -1857,6 +1857,11 @@ metafile = true
 [[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "2347d974740f9b5a1869ba9738644987fa476574ce713503be834d985492dd43"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "edaeca13686caeda3d9344ef2ea74f9c25fc05dfdf713a7d95cae733ed3ee2ba"
 metafile = true
 
 [[files]]
@@ -2250,6 +2255,11 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -2267,6 +2277,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "4aa454d5a97c33eb83bf3a78dc83cb459eed6d3953402e665c852a2ab5acc656"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
 metafile = true
 
 [[files]]
@@ -2307,6 +2322,11 @@ metafile = true
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "1970190dd643509247dc0cac5719a17b72591303700353558ebde08d0edadf81"
+metafile = true
+
+[[files]]
+file = "mods/steam-n-rails-neoforge.pw.toml"
+hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
 metafile = true
 
 [[files]]
