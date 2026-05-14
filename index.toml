@@ -1385,6 +1385,11 @@ hash = "b957fad70e9d18f4e299b1b2eb20a20eb013b4b823d27312dda3514fd9c6fde3"
 metafile = true
 
 [[files]]
+file = "mods/aoc2-dashboard.pw.toml"
+hash = "c4ffa3a593c35a5ec122cf4297d1ced3976c16966182e7405b27193b6e463186"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9cba3cb68a8d5b671364681dc6f66551fe5f1cb7daa16e74201557d7604b19ee"
 metafile = true

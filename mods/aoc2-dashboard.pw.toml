@@ -1,0 +1,8 @@
+name = "AoC2 Dashboard"
+filename = "aoc2-dashboard-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://files.nicho.wtf/mods/aoc2-dashboard/aoc2-dashboard-0.1.0.jar"
+hash-format = "sha256"
+hash = "112cd85eb5f676658169e71d9d19ae13a08246629c64e2332c1bc774a82d409b"
