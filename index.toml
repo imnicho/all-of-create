@@ -1386,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/aoc2-dashboard.pw.toml"
-hash = "8b2384dc6ee3573f22bb0a2a38fdd48a1a35c0a225e1d8dc478e2e95e2cb392d"
+hash = "95744671a8bc5f56cbf7ed902c4ff6acf22916eb39d283731abc537acee26793"
 metafile = true
 
 [[files]]
