@@ -2335,6 +2335,11 @@ hash = "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede"
 metafile = true
 
 [[files]]
+file = "mods/smokeleaf-industries.pw.toml"
+hash = "8d30112200abe8192d0c406fa4c4e0e13848a5ac0fa25d1c71c31e90c1a9725b"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
