@@ -1626,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-dark.pw.toml"
-hash = "9b30b94074329bda0d05e5ada0ce74f2e7410d7ae5ca68381d03f2c69f6830f8"
+hash = "fa0490af88712bad892ab9a1ee49f5cc402654c1571773dbdb9013ab54b496b5"
 metafile = true
 
 [[files]]
