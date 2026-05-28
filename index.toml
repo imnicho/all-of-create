@@ -2365,6 +2365,11 @@ hash = "1970190dd643509247dc0cac5719a17b72591303700353558ebde08d0edadf81"
 metafile = true
 
 [[files]]
+file = "mods/spacefix.pw.toml"
+hash = "b62a9f1d13b54c415691d07c114e88884b115d916b2625fd53f9e4cff421bfd7"
+metafile = true
+
+[[files]]
 file = "mods/steam-n-rails-neoforge.pw.toml"
 hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
 metafile = true

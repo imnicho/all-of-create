@@ -1,0 +1,8 @@
+name = "SpaceFix"
+filename = "spacefix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/imnicho/spacefix/releases/download/v1.0.0/spacefix-1.0.0.jar"
+hash-format = "sha256"
+hash = "339c3d73c45089b8ae90628b4432b3214025f6d2c843559a01cf81bd477cf767"
