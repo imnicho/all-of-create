@@ -1746,7 +1746,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "5a6bdb9bdf49a8f3380bd739f52fe657a2e531f83e6e6fe57987976e710504c8"
+hash = "e40d86f6a2447a5895fffbfca89a4be276d49bbe794aece1caa5fd24b5746173"
 metafile = true
 
 [[files]]
