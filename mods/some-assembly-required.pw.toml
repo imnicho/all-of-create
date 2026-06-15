@@ -1,13 +1,13 @@
 name = "Create: Some Assembly Required"
-filename = "someassemblyrequired-5.2.8.jar"
+filename = "someassemblyrequired-5.2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5e7fc02b85c7c6f128bdebd65b6133734fce7088"
+hash = "b2782a40d4f1222ee2877a026928a6c083bf687a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7701961
+file-id = 7489080
 project-id = 422951
