@@ -1746,7 +1746,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-more-package-couriers.pw.toml"
-hash = "e40d86f6a2447a5895fffbfca89a4be276d49bbe794aece1caa5fd24b5746173"
+hash = "5a6bdb9bdf49a8f3380bd739f52fe657a2e531f83e6e6fe57987976e710504c8"
 metafile = true
 
 [[files]]
@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2461c9d7e1d7dd6e1406a8b51b10fd17bd72f3cc00350b5d09a04888f3c9271c"
+hash = "8067b8a931ab38f7f274a6348e6da98bd943796e85ff3fc68a37c5f989afc694"
 metafile = true
 
 [[files]]
@@ -2386,7 +2386,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8fffbaea812abaf63eef0b1bee642745791a49b54c8689bf3cd62cd29b2b7f81"
+hash = "8be310770ba85af8263754e23f39ff71e374c6bc74ea119634ad74961493498b"
 metafile = true
 
 [[files]]
